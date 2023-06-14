@@ -11,7 +11,10 @@ Olá! :wave:
 - Reflexões filosóficas sobre a importância de acompanhar as mudanças e transformações em um mundo em constante evolução e adaptar-se a elas
 - Manter-se relevante no mercado de trabalho e na vida em geral.
 
-www.gpupo.com é meu website pessoal.
-
 Estou sempre aberto a novas ideias e oportunidades, bora ser inventivo!
 
+# Social
+
+- [Website pessoal](https://www.gpupo.com)
+- [LinkedIn](https://www.linkedin.com/in/gilmarpupo/) profile
+- <a rel="me" href="https://mastodon.social/@gpupo">Mastodon</a> profile
